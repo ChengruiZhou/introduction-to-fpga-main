@@ -1,0 +1,12 @@
+# yosys - Verilog synthesis
+# nextpnr - Place and route
+# Icarus Verilog - Simulation
+# GTKWate - Simulation viewer
+*.dblite
+*.history
+*.asc
+*.bin
+*.json
+*.out
+*.vcd
+*.out
